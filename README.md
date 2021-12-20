@@ -1,5 +1,5 @@
 <!-- REPLACE LINK WITH LIVE PROJECT SITE (IF APPLICABLE) -->
-# Welcome to the [<INSERT PROJECT NAME>](https://unstoppable-portfolio.vercel.app/)!
+# Welcome to the [INSERT PROJECT NAME](https://unstoppable-portfolio.vercel.app/)!
 
 <!-- REPLACE IMAGE WITH PROJECT SCREENSHOT -->
 ![phonograph-record-gc0d1ee08a_640](https://user-images.githubusercontent.com/63591760/146698943-9976f388-2fc7-4964-a358-edd6832774f4.jpg)
