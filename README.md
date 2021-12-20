@@ -1,5 +1,5 @@
 <!-- REPLACE LINK WITH LIVE PROJECT SITE (IF APPLICABLE) -->
-# Welcome to the [Project Name](https://unstoppable-portfolio.vercel.app/)!
+# Welcome to the [<INSERT PROJECT NAME>](https://unstoppable-portfolio.vercel.app/)!
 
 <!-- REPLACE IMAGE WITH PROJECT SCREENSHOT -->
 ![phonograph-record-gc0d1ee08a_640](https://user-images.githubusercontent.com/63591760/146698943-9976f388-2fc7-4964-a358-edd6832774f4.jpg)
@@ -9,7 +9,7 @@
 
 <!-- INSERT BOUNTY NAME AND LINK TO BOUNTY -->
 ## Hackathon submission
-This project was created as a submission for the [INSERT BOUNTY NAME](https://gitcoin.co/) bounty within Gitcoin's HACKATHON NAME (IF APPLICABLE).
+This project was created as a submission for the [<INSERT BOUNTY NAME>](https://gitcoin.co/) bounty within Gitcoin's <INSERT HACKATHON NAME (IF APPLICABLE)>.
 
 ## Motivation for the project
 <!-- INSERT SMALL PITCH OF PROBLEM YOU'RE SOLVING, VALUE PROPOSITION, ETC. REFER TO https://www.canva.com/design/DAEhUeYe_fo/view FOR IDEAS -->
