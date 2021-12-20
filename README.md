@@ -9,7 +9,7 @@
 
 <!-- INSERT BOUNTY NAME AND LINK TO BOUNTY -->
 ## Hackathon submission
-This project was created as a submission for the [<INSERT BOUNTY NAME>](https://gitcoin.co/) bounty within Gitcoin's <INSERT HACKATHON NAME (IF APPLICABLE)>.
+This project was created as a submission for the [INSERT BOUNTY NAME](https://gitcoin.co/) bounty within Gitcoin's <INSERT HACKATHON NAME (IF APPLICABLE)>.
 
 ## Motivation for the project
 <!-- INSERT SMALL PITCH OF PROBLEM YOU'RE SOLVING, VALUE PROPOSITION, ETC. REFER TO https://www.canva.com/design/DAEhUeYe_fo/view FOR IDEAS -->
